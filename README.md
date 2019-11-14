@@ -1,6 +1,8 @@
 # vscode-transparent-glow
 transparent vscode css
 
+--https://juejin.im/post/5cdbe78cf265da034d2a3910
+
 > 原文链接 [https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode](https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode)
 转载请注明出处
 
