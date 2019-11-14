@@ -1,5 +1,6 @@
 # vscode-transparent-glow
 transparent vscode css
+macOS only
 
 --https://juejin.im/post/5cdbe78cf265da034d2a3910
 
