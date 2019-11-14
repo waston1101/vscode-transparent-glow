@@ -4,8 +4,8 @@ transparent vscode css
 --https://juejin.im/post/5cdbe78cf265da034d2a3910
 
 安装插件和主题：
-custom css and js loader
-synthWave '84
+custom css and js loader;
+synthWave '84.
 
     "vscode_custom_css.imports":[
         "E:/development/VSCode/touming/enable-electron-vibrancy.js",
